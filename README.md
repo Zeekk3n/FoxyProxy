@@ -42,7 +42,7 @@ bash-5.0$ ./chisel.sh client 192.168.100.53:1234 R:socks
 use tab "add"  and for tabs
 
 ## ProxyType
-in our case will be SOCKS5, because we are 
+in our case will be SOCKS5, because we are in a tunnel made by chisel server
 ## Proxy IP address or DNS name
 
 ## Port
